@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I recently graduated from The State University of New York at Albany with a Bachelor's Degree in Computer Science. (I also have one in Psychology.)<br>
+I recently graduated from The State University of New York at Albany with a Bachelor's Degree in Computer Science. (I also have one in Psychology.)<br>As a student and a freelancer, I've had the chance to develop both web- and cloud-based applications, as well as design responsive websites using tools like Bootstrap and Bulma.<br>
 
-I've worked with:
+I like working with:
 
 <ul>
 	<li>Java</li>
@@ -35,6 +35,6 @@ I've worked with:
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Feel free to send me an e-mail, and I'll respond as soon as possible!
 </div>
 
