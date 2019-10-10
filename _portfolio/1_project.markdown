@@ -5,7 +5,7 @@ description: Appointment scheduling application built using PHP, MySQL, JavaScri
 img: /img/7.jpg
 ---
 
-Created with spas and salons in mind, this web-based application is functional for all three types of users: the administrator (the business owner), employees, and clients. Includes account and time management, easy scheduling, and simple appointment reminders.
+Created with spas and salons in mind, this web-based application is functional for all three types of users: the administrator (the business owner), employees, and clients. Includes account and time management, easy scheduling, and simple appointment reminders.<br><i>Currently undergoing 2019 update.</i>
 
 
 <div class="img_row">
